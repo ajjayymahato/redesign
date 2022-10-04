@@ -1,6 +1,7 @@
 # ReDesign
 ```
-Awesome Repo For Designers Who Want To Begin Their Journey In Open Source Contribution Under Low Code Or No Code In HacktoberFest
+Awesome Repo For Designers Who Want To Begin Their Journey In Open Source Contribution
+Under Low Code Or No Code In HacktoberFest
 ```
 
 # Who's This Repo For?

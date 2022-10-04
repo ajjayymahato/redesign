@@ -7,9 +7,7 @@ assignees: ''
 
 ---
 
-## Script Description -
-
-**what will change** -
+## ReDesign 'CompanyName' Logo
 
 ## Instructions
 

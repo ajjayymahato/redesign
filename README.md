@@ -14,8 +14,10 @@ Anyone Who Is Into Designing Can Contriubute To This Repo
 - First Choose A Company Who's Logo You Want To Redesign
 - Then Create A Issue With Title "Redesign CompanyName Logo"
 - Then Check If It Already Exists In The Repository Under -> Logos
-- If It Exists Then Make A Subfolder Inside It With Name As #issue_no Inside Which You Will Keep Your Files
-- If The Company Doesn't Exist Then Create A Subfolder Inside Logos With The Name Of The Company In Camelcase
+- If It Exists Then Make A Subfolder Inside It With Name As #issue_no Inside Which You Will
+  Keep Your Files
+- If The Company Doesn't Exist Then Create A Subfolder Inside Logos With The Name Of The Company
+  In Camelcase
 ```
 > `Material Design` / `Gradients` / `Flat Design` / `Neumorphism` / `Glassmorphism` Logo's Are Most Welcome 
 
